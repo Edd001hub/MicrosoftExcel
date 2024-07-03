@@ -16,3 +16,8 @@ Tranformar y visualizar la informacion para permitir mas
    - Es una variable indispensable para identificar el proceso.
   
    subbi![Tarea1](https://github.com/Edd001hub/MicrosoftExcel/assets/174205987/5eec3773-22ee-4457-bd4b-13e05f8e8548)
+
+### Codigo utilizado en el analisis 
+
+   ``` SELECT * FROM table```
+   
